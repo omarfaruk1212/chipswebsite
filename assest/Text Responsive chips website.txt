@@ -1,0 +1,129 @@
+========== HEADER ==========
+.nav__logo
+CHIPS
+
+.nav__link
+ -  -  -  - 
+
+.nav__social
+
+
+
+
+
+========== HOME ==========
+.home__title
+
+
+.home__description
+
+
+.button
+
+
+.button__ghost
+
+
+
+========== FAVORITES ==========
+.section__title
+
+
+.favorites__description
+
+
+
+========== CARE ==========
+.section__title
+ENJOY AND TAKE <br> CARE OF YOUR HEALTH
+
+.care__item p
+The potatoes that are made into 
+snacks are grown and harvested and 
+are 100% organic.
+
+We fry the fries with vegetable and 
+natural oil for good care.
+
+The potatoes are not processed, once 
+cleaned they are cooked without 
+preservatives.
+
+They contain fewer calories and less 
+fat for good health.
+
+
+========== BANNER ==========
+.banner__item span
+GOOD FOR NATURE
+
+LOW CALORIES
+
+
+========== PRODUCTS ==========
+.section__title
+BEST SELLING <br> PRODUCT
+
+.products__subtitle .products__title .products__price
+Crab
+Chips
+$8
+
+Cheese
+Chips
+$5
+
+BBQ
+Chips
+$6
+
+Hot
+Chips
+$5
+
+Mix
+Chips
+$10
+
+
+========== CONTACT ==========
+.section__title
+CONTACT US TO <br> EAT CHIPS
+
+.contact__title
+Write to us
+Call us
+Find us here
+
+.contact__social
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://m.me/bedimcode
+mailto:examplemail@correo.com
+
+.contact__info
++00-987-7654-321 <br>
++11-012345
+
+Lima - Sun City - Peru <br>
+Av. Moon #4321
+
+
+========== FOOTER ==========
+.footer__logo
+CHIPS
+
+.footer__link
+Terms & Agreements
+Privacy Policy
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
+
+
+
+
+
+
+
+
+
